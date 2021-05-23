@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagesh
+- 👋 Hi, I’m @nageshsturup@gmail.com
 - 👀 I’m interested in Javascript,MEAN Stack,
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Github,slack
